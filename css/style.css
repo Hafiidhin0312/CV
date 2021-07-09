@@ -2,9 +2,10 @@
  border: 2px solid red;
 } */
 
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
 h1,h2,h3,h4,h5,h6,span,small, p,a, button,table{
-  font-family: quicksand !important;
+  font-family: 'Quicksand' !important;
 }
 
 html{
